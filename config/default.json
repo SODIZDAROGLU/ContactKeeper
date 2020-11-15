@@ -1,0 +1,3 @@
+{
+    "mongoURI" : "mongodb+srv://americanlaz:a12345678@cluster0.stcut.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
